@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Nenomorph-04.png" alt="Nenomorph Logo" width="180">
+  <img src="Nenomorph-04.png" alt="Nenomorph Logo" width="300">
 </p>
 
 Nenomorph is an independent robotics research and development initiative focused on autonomous systems, intelligent machines, swarm robotics, and exploration technologies.
